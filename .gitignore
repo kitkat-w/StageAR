@@ -1,0 +1,9 @@
+*.pyc
+*.png
+*.gltf
+*.npy
+*.pcd
+
+depth_utils/__pycache__/*
+evaluate/__pycache__/*
+utils/__pycache__/*
